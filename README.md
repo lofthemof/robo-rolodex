@@ -1,4 +1,4 @@
-## Rolodex for Fictional Robots with an Added Search-by-Name Functionality
+## Rolodex for Fictional Robots with a Search-by-Name Functionality
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
