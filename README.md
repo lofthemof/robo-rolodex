@@ -1,4 +1,4 @@
-## Rolodex for fictional robots (which for some reason have an email address), with an added search-by-name functionality.
+## Rolodex for fictional robots with an added search-by-name functionality.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
